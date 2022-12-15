@@ -1,0 +1,4 @@
+Download Reports from NSE
+(https://nseindia.com/corporates/content/eq_research_reports_listed.htm)
+Use the above link and download the reports of all the companies in a folder on the
+desktop using AA.
